@@ -1,0 +1,6 @@
+{
+  "name": "Contra Học Tập: Đột Kích Tri Thức",
+  "description": "Game hành động Contra vượt ải kết hợp trắc nghiệm kiến thức Lịch Sử, Ngữ Văn và Kinh Tế & Pháp Luật.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
